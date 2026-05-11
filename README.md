@@ -39,11 +39,8 @@ Como separar, dentro de milhões de pagamentos, aqueles que realmente decorrem d
   - dim_medicamentos
   - dim_municipios_ibge
   - dim_tipo_pagamento
-  - empenho
-  - fato_nota_ordem_bancaria
   - liquidacao
-  - liquidacao_subelemento
-  - processo_sei
+  - fato_nota_ordem_bancaria
 
 ### 🔹 3. Classificação da judicialização
 
