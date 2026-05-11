@@ -61,7 +61,7 @@ Como separar, dentro de milhões de pagamentos, aqueles que realmente decorrem d
 
 ### 📊 Dashboard
 
-<img width="1329" height="749" alt="image" src="https://github.com/user-attachments/assets/8d4526bf-e1a4-4ba9-8721-0cff1cab99fe" />
+<img width="1326" height="748" alt="image" src="https://github.com/user-attachments/assets/00492f8a-e6a1-447b-9636-74ed96355d7e" />
 <br>
 <img width="1329" height="754" alt="image" src="https://github.com/user-attachments/assets/376f6e4e-2536-4ad9-a9a1-786f6e76c5f7" />
 <br>
