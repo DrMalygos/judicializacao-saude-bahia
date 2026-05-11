@@ -14,7 +14,7 @@ Como separar, dentro de milhões de pagamentos, aqueles que realmente decorrem d
 
 ## 📊 Dados utilizados
 
-- Portal de Dados Abertos da Bahia
+- Portal de Dados Abertos da Bahia: [link](https://dados.ba.gov.br/dataset/pagamentos)
 - Mais de 5 milhões de pagamentos analisados
 - Arquivos CSV com problemas estruturais (quebra de linha, delimitadores inconsistentes)
 
