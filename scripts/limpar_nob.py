@@ -1,9 +1,9 @@
 """
-Script: Tratamento de CSV - Nota de Ordem Bancária Histórico
+Script: Tratamento de CSV - Nota de Ordem Bancária
 
 Objetivo:
 ---------
-Corrigir desalinhamentos no arquivo histórico de Nota de Ordem Bancária,
+Corrigir desalinhamentos no arquivo de Nota de Ordem Bancária,
 causados principalmente por delimitadores internos dentro de campos textuais.
 
 Entrada:
