@@ -8,11 +8,11 @@ causados principalmente por delimitadores internos dentro de campos textuais.
 
 Entrada:
 --------
-./data/VW_PAINEL_PAGAMENTO_NOTA_ORDEM_BANCARIA_HISTORICO.csv
+./data/VW_PAINEL_PAGAMENTO_NOTA_ORDEM_BANCARIA.csv
 
 Saída:
 ------
-./data/VW_PAINEL_PAGAMENTO_NOTA_ORDEM_BANCARIA_HISTORICO_LIMPO.csv
+./data/VW_PAINEL_PAGAMENTO_NOTA_ORDEM_BANCARIA_LIMPO.csv
 """
 
 from pathlib import Path
@@ -26,8 +26,8 @@ import time
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-ARQUIVO_ENTRADA = BASE_DIR / "data" / "VW_PAINEL_PAGAMENTO_NOTA_ORDEM_BANCARIA_HISTORICO.csv"
-ARQUIVO_SAIDA = BASE_DIR / "data" / "VW_PAINEL_PAGAMENTO_NOTA_ORDEM_BANCARIA_HISTORICO_LIMPO.csv"
+ARQUIVO_ENTRADA = BASE_DIR / "data" / "VW_PAINEL_PAGAMENTO_NOTA_ORDEM_BANCARIA.csv"
+ARQUIVO_SAIDA = BASE_DIR / "data" / "VW_PAINEL_PAGAMENTO_NOTA_ORDEM_BANCARIA_LIMPO.csv"
 
 
 # ============================================================
