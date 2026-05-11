@@ -71,16 +71,7 @@ Como separar, dentro de milhões de pagamentos, aqueles que realmente decorrem d
 <img width="1319" height="746" alt="image" src="https://github.com/user-attachments/assets/a3b2c2a7-adfa-4b7b-a16f-0e8598d807dc" />
 
 
-
-
-### 🧠 Principais aprendizados
-- Tratamento de dados reais é o maior desafio
-- Regex e limpeza de texto são essenciais
-- Modelagem correta facilita toda a análise
-
-### 🛠️ Tecnologias
+### 🛠️ Tecnologias Utilizadas
 - Python
 - PostgreSQL
-- SQL
 - Power BI
-- DBeaver
