@@ -15,6 +15,8 @@ Como separar, dentro de milhões de pagamentos, aqueles que realmente decorrem d
 ## 📊 Dados utilizados
 
 - Portal de Dados Abertos da Bahia: [link](https://dados.ba.gov.br/dataset/pagamentos)
+- Também foi utilizada uma base auxiliar de municípios do IBGE, extraída da Divisão Territorial Brasileira / Banco de Estruturas Territoriais.
+  - A planilha original foi tratada no Excel para manter apenas os campos necessários à dimensão de municípios: código do município, UF, nome do município e município/UF.
 - Mais de 5 milhões de pagamentos analisados
 - Arquivos CSV com problemas estruturais (quebra de linha, delimitadores inconsistentes)
 
