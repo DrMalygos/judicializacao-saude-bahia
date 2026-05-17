@@ -43,6 +43,7 @@ Como separar, dentro de milhões de pagamentos, aqueles que realmente decorrem d
   - dim_tipo_pagamento
   - liquidacao
   - fato_nota_ordem_bancaria
+  - fat_pagamento_medicamento
 
 ### 🔹 3. Classificação da judicialização
 
